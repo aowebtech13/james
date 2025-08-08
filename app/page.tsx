@@ -1029,6 +1029,9 @@ export default function Home() {
                   <label htmlFor="name" className="block text-sm font-medium mb-2">Name</label>
                   <input
                     type="text"
+                    name='fullName'
+                    value='fullName'
+
                     id="name"
                     className="w-full px-4 py-3 bg-white/20 border border-white/30 rounded-lg text-white placeholder-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500"
                     placeholder="Your full name"
@@ -1037,7 +1040,10 @@ export default function Home() {
                 <div>
                   <label htmlFor="email" className="block text-sm font-medium mb-2">Email</label>
                   <input
+
                     type="email"
+                    name='email'
+                    value='email'
                     id="email"
                     className="w-full px-4 py-3 bg-white/20 border border-white/30 rounded-lg text-white placeholder-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500"
                     placeholder="your.email@example.com"
@@ -1047,6 +1053,8 @@ export default function Home() {
                   <label htmlFor="subject" className="block text-sm font-medium mb-2">Subject</label>
                   <input
                     type="text"
+                    name='subject'
+                    value='Subject'
                     id="subject"
                     className="w-full px-4 py-3 bg-white/20 border border-white/30 rounded-lg text-white placeholder-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500"
                     placeholder="What would you like to discuss?"
@@ -1056,6 +1064,8 @@ export default function Home() {
                   <label htmlFor="message" className="block text-sm font-medium mb-2">Message</label>
                   <textarea
                     id="message"
+                    name='message'
+                    value='Message'
                     rows={4}
                     className="w-full px-4 py-3 bg-white/20 border border-white/30 rounded-lg text-white placeholder-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500"
                     placeholder="Your message here..."
