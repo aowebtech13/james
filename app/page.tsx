@@ -121,7 +121,7 @@ export default function Home() {
                 PhD Candidate & Lecturer
               </p>
               <p className="text-lg mb-8 text-gray-600 max-w-2xl">
-                Specializing in Technology Entrepreneurship, Digital Marketing, and E-commerce. 
+                Specializing in Technology Entrepreneurship, Innovation management ,Digital Marketing, and E-commerce. 
                 Passionate about bridging the gap between academic research and practical business innovation.
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">
@@ -169,7 +169,8 @@ export default function Home() {
           <div className="text-center mb-16">
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">About Me</h2>
             <p className="text-lg text-gray-600 max-w-3xl mx-auto">
-              A dedicated academic and entrepreneur with a passion for technology innovation and business education
+              A dedicated academic and entrepreneur with a passion for technology entrepreneurship and innovation 
+              management
             </p>
           </div>
 
@@ -184,17 +185,19 @@ export default function Home() {
             
             <div className="space-y-6">
               <p className="text-lg text-gray-700 leading-relaxed">
-                I am a PhD candidate in Technology Entrepreneurship at the prestigious University of Ibadan, 
-                currently serving as a Lecturer at Bamidele Olumilua University of Science and Technology. 
+                I am a PhD candidate in Technology Entrepreneurship at the prestigious University of Ibadan School of 
+                Busines, currently serving as a Lecturer at Bamidele Olumilua University of Science and Technology. 
                 My academic journey is driven by a passion for understanding how technology can transform 
                 entrepreneurial landscapes and create sustainable business solutions.
               </p>
               
               <p className="text-lg text-gray-700 leading-relaxed">
-                With expertise spanning digital marketing, e-commerce, and technology entrepreneurship, 
+                With expertise spanning digital marketing, e-commerce, and technology entrepreneurship and business and 
+                marketing strategies 
                 I bridge the gap between theoretical knowledge and practical application. My research 
-                has been recognized internationally, with presentations at Cambridge University and 
-                research grants totaling over ₦8 million.
+                has been recognized internationally, with presentations at the World Congress on Education, 
+2024 (WCE-2024) and The 18th International Conference on Information Society, 2025 (i-Society, 2025) 
+held at The Cambridge University, United Kingdom .
               </p>
 
               <div className="grid grid-cols-2 gap-6 mt-8">
@@ -234,7 +237,7 @@ export default function Home() {
                 <div className="flex items-center justify-between">
                   <div>
                     <CardTitle className="text-xl text-gray-900">PhD in Technology Entrepreneurship</CardTitle>
-                    <CardDescription className="text-lg font-medium text-gray-700">University of Ibadan</CardDescription>
+                    <CardDescription className="text-lg font-medium text-gray-700">University of Ibadan School Of Business</CardDescription>
                   </div>
                   <Badge variant="outline" className="border-blue-500 text-blue-700">In Progress</Badge>
                 </div>
@@ -255,8 +258,8 @@ export default function Home() {
               </CardHeader>
               <CardContent>
                 <p className="text-gray-600">
-                  Master's degree in Business Education with focus on educational methodologies, 
-                  curriculum development, and business pedagogy.
+                  Master's degree in Business Education with focus on accounting technology and analytics, financial 
+                  reporting and business pedagogy.
                 </p>
               </CardContent>
             </Card>
@@ -298,7 +301,7 @@ export default function Home() {
                 </CardTitle>
               </CardHeader>
               <CardContent>
-                <p className="text-sm text-gray-600 mb-2"><strong>Supervised by:</strong> Google Digital Skills for Africa</p>
+                <p className="text-sm text-gray-600 mb-2"><strong>Supervised by:</strong> Coursera</p>
                 <p className="text-sm text-gray-600 mb-3"><strong>Certificate Type:</strong> Non-degree Professional Certification</p>
                 <p className="text-gray-600 mb-4">
                   Comprehensive certification in digital marketing strategies, social media marketing, 
@@ -346,7 +349,7 @@ export default function Home() {
                 </CardTitle>
               </CardHeader>
               <CardContent>
-                <p className="text-sm text-gray-600 mb-2"><strong>Supervised by:</strong> University of Ibadan Graduate School</p>
+                <p className="text-sm text-gray-600 mb-2"><strong>Supervised by:</strong> University of Ibadan School of Business</p>
                 <p className="text-sm text-gray-600 mb-3"><strong>Certificate Type:</strong> Academic Research Certificate</p>
                 <p className="text-gray-600 mb-4">
                   Specialized training in technology startup development, innovation management, 
@@ -370,7 +373,8 @@ export default function Home() {
                 </CardTitle>
               </CardHeader>
               <CardContent>
-                <p className="text-sm text-gray-600 mb-2"><strong>Supervised by:</strong> Enterprise Development Centre (EDC), Pan-Atlantic University</p>
+                <p className="text-sm text-gray-600 mb-2"><strong>Supervised by:</strong> University of Ibadan School of Business and Ekiti State 
+                University</p>
                 <p className="text-sm text-gray-600 mb-3"><strong>Certificate Type:</strong> Non-degree Professional Development</p>
                 <p className="text-gray-600 mb-4">
                   Training in advanced research methods, data analysis, and academic writing 
@@ -394,7 +398,7 @@ export default function Home() {
                 </CardTitle>
               </CardHeader>
               <CardContent>
-                <p className="text-sm text-gray-600 mb-2"><strong>Supervised by:</strong> IBM SPSS Statistics Certification Program</p>
+                <p className="text-sm text-gray-600 mb-2"><strong>Supervised by:</strong> IBM SPSS Statistics Certification Program,Institute of Management, Technology and Finance</p>
                 <p className="text-sm text-gray-600 mb-3"><strong>Certificate Type:</strong> Non-degree Technical Certification</p>
                 <p className="text-gray-600 mb-4">
                   Professional training in business intelligence, data visualization, 
@@ -873,25 +877,18 @@ export default function Home() {
                 <CardTitle className="text-lg text-gray-900">Research Excellence Award</CardTitle>
               </CardHeader>
               <CardContent>
-                <p className="text-gray-600">
+              <p className="text-gray-600">
                   Recognized for outstanding contribution to technology entrepreneurship research
+                </p>
+                <p className="text-gray-600">
+                Certificate of Professional Development for Presentation and Contribution to Knowledge Domain at The 
+                World Congress on Education, 2024 (WCE-2024)
                 </p>
                 <div className="text-sm text-gray-500 mt-2">University of Ibadan, 2024</div>
               </CardContent>
             </Card>
 
-            <Card className="text-center hover:shadow-lg transition-shadow duration-300">
-              <CardHeader>
-                <Star className="w-12 h-12 text-purple-600 mx-auto mb-4" />
-                <CardTitle className="text-lg text-gray-900">Best Paper Award</CardTitle>
-              </CardHeader>
-              <CardContent>
-                <p className="text-gray-600">
-                  Best paper award at the International Conference on Digital Innovation
-                </p>
-                <div className="text-sm text-gray-500 mt-2">Cambridge University, 2024</div>
-              </CardContent>
-            </Card>
+            
 
             <Card className="text-center hover:shadow-lg transition-shadow duration-300">
               <CardHeader>
@@ -913,7 +910,13 @@ export default function Home() {
               </CardHeader>
               <CardContent>
                 <p className="text-gray-600">
-                  Member of the International Association of Technology Entrepreneurs
+                Membership of The Institute of Business Diplomacy and Financial Management, Nigeria. (IBDFM)
+                </p>
+                <p className="text-gray-600">
+                Membership of the International Association of Research Scholars and Administration (IARSA)
+                </p>
+                <p className="text-gray-600">
+                Membership of the Global Research Academy
                 </p>
                 <div className="text-sm text-gray-500 mt-2">Since 2023</div>
               </CardContent>
@@ -926,7 +929,7 @@ export default function Home() {
               </CardHeader>
               <CardContent>
                 <p className="text-gray-600">
-                  Serving on the editorial board of the Journal of Technology Entrepreneurship
+                Member of the Editorial Board, International Journal of Innovative Business Strategies (IJIBS).
                 </p>
                 <div className="text-sm text-gray-500 mt-2">Since 2024</div>
               </CardContent>
