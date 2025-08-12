@@ -118,10 +118,10 @@ export default function Home() {
                 <span className="block text-blue-600">Adeniyi</span>
               </h1>
               <p className="text-xl md:text-2xl mb-4 text-gray-700">
-                PhD Candidate & Lecturer
+              Lecturer & Researcher in Technology Entrepreneurship
               </p>
               <p className="text-lg mb-8 text-gray-600 max-w-2xl">
-                Specializing in Technology Entrepreneurship, Innovation management ,Digital Marketing, and E-commerce. 
+                Specializing in Technology Entrepreneurship, Innovation management, Digital Marketing, and E-commerce. 
                 Passionate about bridging the gap between academic research and practical business innovation.
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">
