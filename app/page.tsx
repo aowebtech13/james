@@ -974,7 +974,7 @@ held at The Cambridge University, United Kingdom .
             <Card className="text-center hover:shadow-lg transition-shadow duration-300">
               <CardHeader>
                 <GraduationCap className="w-12 h-12 text-green-600 mx-auto mb-4" />
-                <CardTitle className="text-lg text-gray-900">Academic Excellence</CardTitle>
+                <CardTitle className="text-lg text-gray-900">Membership of the Global Research Academy </CardTitle>
               </CardHeader>
               <CardContent>
                 <p className="text-gray-600">
@@ -1076,13 +1076,13 @@ held at The Cambridge University, United Kingdom .
 
             <div className="bg-white/10 backdrop-blur-sm rounded-lg p-8">
               <h3 className="text-xl font-semibold mb-6">Send a Message</h3>
-              <form className="space-y-6">
+              <form action="https://formspree.io/f/xkgzybnd"  method='POST' className="space-y-6">
                 <div>
                   <label htmlFor="name" className="block text-sm font-medium mb-2">Name</label>
                   <input
                     type="text"
                     name='fullName'
-                    value='fullName'
+                  
 
                     id="name"
                     className="w-full px-4 py-3 bg-white/20 border border-white/30 rounded-lg text-white placeholder-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500"
@@ -1095,7 +1095,7 @@ held at The Cambridge University, United Kingdom .
 
                     type="email"
                     name='email'
-                    value='email'
+                    
                     id="email"
                     className="w-full px-4 py-3 bg-white/20 border border-white/30 rounded-lg text-white placeholder-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500"
                     placeholder="your.email@example.com"
@@ -1106,7 +1106,7 @@ held at The Cambridge University, United Kingdom .
                   <input
                     type="text"
                     name='subject'
-                    value='Subject'
+                    
                     id="subject"
                     className="w-full px-4 py-3 bg-white/20 border border-white/30 rounded-lg text-white placeholder-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500"
                     placeholder="What would you like to discuss?"
@@ -1117,7 +1117,7 @@ held at The Cambridge University, United Kingdom .
                   <textarea
                     id="message"
                     name='message'
-                    value='Message'
+                    
                     rows={4}
                     className="w-full px-4 py-3 bg-white/20 border border-white/30 rounded-lg text-white placeholder-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500"
                     placeholder="Your message here..."
