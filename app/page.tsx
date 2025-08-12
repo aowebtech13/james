@@ -460,7 +460,7 @@ held at The Cambridge University, United Kingdom .
               </CardHeader>
               <CardContent>
                 <p className="text-gray-600 mb-4">
-                  Led comprehensive workshops on digital transformation strategies for small and medium enterprises, 
+                  Attend comprehensive workshops on digital transformation strategies for small and medium enterprises, 
                   focusing on technology adoption and business process optimization.
                 </p>
                 <div className="flex items-center text-sm text-gray-500">
@@ -485,8 +485,7 @@ held at The Cambridge University, United Kingdom .
               </CardHeader>
               <CardContent>
                 <p className="text-gray-600 mb-4">
-                  Conducted intensive workshops for aspiring entrepreneurs on business plan development, 
-                  market analysis, and funding strategies.
+               Participated in intensive workshops for aspiring entrepreneurs on business plan development, market analysis, and funding strategies.
                 </p>
                 <div className="flex items-center text-sm text-gray-500">
                   <Calendar className="w-4 h-4 mr-2" />
@@ -510,7 +509,7 @@ held at The Cambridge University, United Kingdom .
               </CardHeader>
               <CardContent>
                 <p className="text-gray-600 mb-4">
-                  Delivered specialized training on e-commerce platform development, digital payment integration, 
+                  Completed specialized training on e-commerce platform development, digital payment integration, 
                   and online customer acquisition strategies.
                 </p>
                 <div className="flex items-center text-sm text-gray-500">
@@ -535,7 +534,7 @@ held at The Cambridge University, United Kingdom .
               </CardHeader>
               <CardContent>
                 <p className="text-gray-600 mb-4">
-                  Conducted advanced training sessions on qualitative and quantitative research methods, 
+                  Participated in advanced training sessions on qualitative and quantitative research methods, 
                   data collection techniques, and academic publication strategies.
                 </p>
                 <div className="flex items-center text-sm text-gray-500">
@@ -560,7 +559,7 @@ held at The Cambridge University, United Kingdom .
               </CardHeader>
               <CardContent>
                 <p className="text-gray-600 mb-4">
-                  Led masterclass sessions on advanced digital marketing techniques, SEO optimization, 
+                  Participated in masterclass sessions on advanced digital marketing techniques, SEO optimization, 
                   content marketing, and social media strategy development.
                 </p>
                 <div className="flex items-center text-sm text-gray-500">
@@ -585,7 +584,7 @@ held at The Cambridge University, United Kingdom .
               </CardHeader>
               <CardContent>
                 <p className="text-gray-600 mb-4">
-                  Facilitated workshops on academic writing excellence, journal publication processes, 
+                  Attended workshops on academic writing excellence, journal publication processes, 
                   and research dissemination strategies.
                 </p>
                 <div className="flex items-center text-sm text-gray-500">
@@ -632,7 +631,7 @@ held at The Cambridge University, United Kingdom .
               <CardHeader>
                 <CardTitle className="text-xl text-gray-900">Research Fellow</CardTitle>
                 <CardDescription className="text-lg font-medium text-gray-700">
-                  Technology Entrepreneurship Research Center
+                Local and International Academic Conference Proceedings and Highly Reputable Journals
                 </CardDescription>
               </CardHeader>
               <CardContent>
@@ -790,7 +789,7 @@ held at The Cambridge University, United Kingdom .
                   <div className="flex items-center space-x-4">
                     <Globe className="w-8 h-8 text-blue-600" />
                     <div>
-                      <CardTitle className="text-xl text-gray-900">Cambridge University Technology Conference</CardTitle>
+                      <CardTitle className="text-xl text-gray-900">World Congress on Education 2024 (WCE-2024), Cambridge University, United Kingdom</CardTitle>
                       <CardDescription className="text-lg font-medium text-gray-700">Cambridge, United Kingdom</CardDescription>
                     </div>
                   </div>
@@ -799,8 +798,7 @@ held at The Cambridge University, United Kingdom .
               </CardHeader>
               <CardContent>
                 <p className="text-gray-600 mb-4">
-                  Delivered a keynote presentation on "Technology Entrepreneurship in Emerging Markets: 
-                  Challenges and Opportunities" to an international audience of researchers and practitioners.
+                Presented a research paper titled"  Enterprise risk management and the Operational Performance of Wholesale Business in Southwest, Nigeria.
                 </p>
                 <div className="flex items-center text-sm text-gray-500">
                   <Calendar className="w-4 h-4 mr-2" />
@@ -840,7 +838,7 @@ held at The Cambridge University, United Kingdom .
                   <div className="flex items-center space-x-4">
                     <BookOpen className="w-8 h-8 text-green-600" />
                     <div>
-                      <CardTitle className="text-xl text-gray-900">International E-commerce Research Conference</CardTitle>
+                      <CardTitle className="text-xl text-gray-900">3rd ARUA Center of Excellence for Unemployment and Skills Development International Conference (ARUA-CoE, 2022). </CardTitle>
                       <CardDescription className="text-lg font-medium text-gray-700">Virtual Conference</CardDescription>
                     </div>
                   </div>
@@ -849,8 +847,54 @@ held at The Cambridge University, United Kingdom .
               </CardHeader>
               <CardContent>
                 <p className="text-gray-600 mb-4">
-                  Presented research findings on "Consumer Behavior in Digital Marketplaces: 
-                  A Cross-Cultural Analysis" to an international academic audience.
+                Organised by the African Research University Alliance, (ARUA),  University of Nairobi and UK Research and Innovation Center. 
+                Paper presented Tackling Restiveness among Nigerian Youths: The Entrepreneurship Window.
+                </p>
+                <div className="flex items-center text-sm text-gray-500">
+                  <Calendar className="w-4 h-4 mr-2" />
+                  November 2023
+                </div>
+              </CardContent>
+            </Card>
+            <Card className="border-l-4 border-l-red-500 hover:shadow-lg transition-shadow duration-300">
+              <CardHeader>
+                <div className="flex items-center justify-between">
+                  <div className="flex items-center space-x-4">
+                    <BookOpen className="w-8 h-8 text-green-600" />
+                    <div>
+                      <CardTitle className="text-xl text-gray-900"> National Open University, Abuja, Nigeria. </CardTitle>
+                      <CardDescription className="text-lg font-medium text-gray-700">Paper Presented</CardDescription>
+                    </div>
+                  </div>
+                  <Badge variant="outline">Research Presentation</Badge>
+                </div>
+              </CardHeader>
+              <CardContent>
+                <p className="text-gray-600 mb-4">
+                1st International Conference of The Center for Research, Innovation, Development and Entrepreneurship (CRIDE2024). Paper presented, Digital Technology Adoption and Innovation Performance of Transport Sector in Nigeria.
+                </p>
+                <div className="flex items-center text-sm text-gray-500">
+                  <Calendar className="w-4 h-4 mr-2" />
+                  November 2023
+                </div>
+              </CardContent>
+            </Card>
+            <Card className="border-l-4 border-l-yellow-500 hover:shadow-lg transition-shadow duration-300">
+              <CardHeader>
+                <div className="flex items-center justify-between">
+                  <div className="flex items-center space-x-4">
+                    <BookOpen className="w-8 h-8 text-green-600" />
+                    <div>
+                      <CardTitle className="text-xl text-gray-900">18th International Conference on Information Society,2025 (i-Society,2025) held at the Cambridge University, United Kingdom.. </CardTitle>
+                      <CardDescription className="text-lg font-medium text-gray-700"> Paper presented: Impact of E-commerce Adoption on the Hotel and Accommodation Businesses in Ondo State, Nigeria.</CardDescription>
+                    </div>
+                  </div>
+                  <Badge variant="outline">Research Presentation</Badge>
+                </div>
+              </CardHeader>
+              <CardContent>
+                <p className="text-gray-600 mb-4">
+                18th International Conference on Information Society,2025 (i-Society,2025) held at the Cambridge University, United Kingdom. Paper presented: Impact of E-commerce Adoption on the Hotel and Accommodation Businesses in Ondo State, Nigeria.
                 </p>
                 <div className="flex items-center text-sm text-gray-500">
                   <Calendar className="w-4 h-4 mr-2" />
@@ -877,12 +921,9 @@ held at The Cambridge University, United Kingdom .
                 <CardTitle className="text-lg text-gray-900">Research Excellence Award</CardTitle>
               </CardHeader>
               <CardContent>
-              <p className="text-gray-600">
-                  Recognized for outstanding contribution to technology entrepreneurship research
-                </p>
+             
                 <p className="text-gray-600">
-                Certificate of Professional Development for Presentation and Contribution to Knowledge Domain at The 
-                World Congress on Education, 2024 (WCE-2024)
+                Certificate of Professional Development for Presentation and Contribution to Knowledge Domain at The World Congress on Education, 2024 (WCE-2024).
                 </p>
                 <div className="text-sm text-gray-500 mt-2">University of Ibadan, 2024</div>
               </CardContent>
@@ -912,12 +953,7 @@ held at The Cambridge University, United Kingdom .
                 <p className="text-gray-600">
                 Membership of The Institute of Business Diplomacy and Financial Management, Nigeria. (IBDFM)
                 </p>
-                <p className="text-gray-600">
-                Membership of the International Association of Research Scholars and Administration (IARSA)
-                </p>
-                <p className="text-gray-600">
-                Membership of the Global Research Academy
-                </p>
+                
                 <div className="text-sm text-gray-500 mt-2">Since 2023</div>
               </CardContent>
             </Card>
@@ -944,6 +980,19 @@ held at The Cambridge University, United Kingdom .
                 <p className="text-gray-600">
                   Graduated with distinction in all academic programs
                 </p>
+                <div className="text-sm text-gray-500 mt-2">Consistent Achievement</div>
+              </CardContent>
+            </Card>
+            <Card className="text-center hover:shadow-lg transition-shadow duration-300">
+              <CardHeader>
+                <GraduationCap className="w-12 h-12 text-red-600 mx-auto mb-4" />
+                <CardTitle className="text-lg text-gray-900">Academic Excellence</CardTitle>
+              </CardHeader>
+              <CardContent>
+              <p className="text-gray-600">
+                Membership of the International Association of Research Scholars and Administration (IARSA)
+                </p>
+                
                 <div className="text-sm text-gray-500 mt-2">Consistent Achievement</div>
               </CardContent>
             </Card>
